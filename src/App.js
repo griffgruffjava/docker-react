@@ -11,6 +11,7 @@ class App extends Component {
           <p>
             Bitch, are you still here!?!?!
           </p>
+          <h1>Mother f*cker, I WAS NEVER GONE!</h1>
           <a
             className="App-link"
             href="https://reactjs.org"
